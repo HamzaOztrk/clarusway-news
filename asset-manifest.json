@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/clarusway-news/static/js/main.18c97814.js",
+    "static/media/loading.gif": "/clarusway-news/static/media/loading.9580626320c504a04ea8.gif",
+    "index.html": "/clarusway-news/index.html",
+    "main.18c97814.js.map": "/clarusway-news/static/js/main.18c97814.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.18c97814.js"
+  ]
+}
